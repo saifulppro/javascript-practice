@@ -1,0 +1,12 @@
+// var price1 = 25;
+// var price2 = 35;
+// var total = price1 % price2;
+// var newPrice = price1 + 1;
+// var First = 'Saiful';
+// var Last = 'Alam';
+// var FullName = First + ' ' + Last;
+// console.log(FullName);
+var str = 'Md. Saiful Alam';
+var num = 23;
+var equal = str + ' ' + num;
+console.log(equal);
